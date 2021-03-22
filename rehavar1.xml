@@ -1,0 +1,21 @@
+<Variant ID="V1">
+  <Name>Variantenname</Name>
+  <Zone>
+    <LocationX unit="m">3.2</LocationX> 
+    <LocationY unit="m">1.6</LocationY>
+    <Width unit="mm">210</Width>
+    <Height unit="mm">160</Height>
+    <StoneDamages> 
+       <Stone ID="S1">GUID 1</Stone> 
+    </StoneDamages>
+  </Zone>
+  <DamageTypes>
+    <DamageType ID="D1">Schadenstyp</DamageType>
+  </DamageTypes>
+  <RehabilitationMeasures>
+    <RehabMeasure ID="RM1">Gewählte Maßnahme</RehabMeasure>
+  </RehabilitationMeasures>
+  <Cost currency="EUR">20000.00</Cost>
+  <Duration unit="Tage">5.5</Duration> 
+  <Risk eval="Hoch"/>
+</Variant>
