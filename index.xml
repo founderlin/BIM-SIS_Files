@@ -9,8 +9,8 @@
   </GeoCoordinates>
   <Variants>
     <Variant ID="V1">
-       <VariantName>rehavar1</VariantName>
-       <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/</VariantURL>
+      <VariantName>rehavar1</VariantName>
+      <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/</VariantURL>
     </Variant>
   </Variants>
 </Project>
