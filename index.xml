@@ -12,9 +12,5 @@
       <VariantName>rehavar1</VariantName>
       <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/</VariantURL>
     </Variant>
-    <Variant ID="V2">
-      <VariantName>rehavar2</VariantName>
-      <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/</VariantURL>
-    </Variant>
   </Variants>
 </Project>
