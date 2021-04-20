@@ -13,7 +13,7 @@
     <DamageType ID="D1">Schadenstyp</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="RM1">Gewählte Maßnahme</RehabMeasure>
+    <RehabMeasure ID="RM1">selcted measure ONE</RehabMeasure>
   </RehabilitationMeasures>
   <Cost currency="EUR">20000.00</Cost>
   <Duration unit="Tage">5.5</Duration> 
