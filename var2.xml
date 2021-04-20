@@ -13,7 +13,7 @@
     <DamageType ID="D2">2Schadenstyp</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="RM2">2 Gewählte Maßnahme</RehabMeasure>
+    <RehabMeasure ID="RM2">selcted measure TWO</RehabMeasure>
   </RehabilitationMeasures>
   <Cost currency="EUR">220000.00</Cost>
   <Duration unit="Tage">25.5</Duration> 
