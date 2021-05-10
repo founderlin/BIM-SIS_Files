@@ -4,8 +4,8 @@
   <Zone>
     <LocationX unit="m">0.6772533915769987</LocationX>
     <LocationY unit="m">0.3855747431898139</LocationY>
-    <Width unit="m">0.8187779541993688</Width>
-    <Height unit="m">0.7283039389270318</Height>
+    <Width unit="m">818.7779541993688</Width>
+    <Height unit="m">728.3039389270318</Height>
     <StoneDamages>
       <Stone ID="24VJIiNH91YeE7PFJs3DsC">24VJIiNH91YeE7PFJs3DsC</Stone>
       <Stone ID="3_Fo1g3lv7o9YYeQmQPVrR">3_Fo1g3lv7o9YYeQmQPVrR</Stone>
@@ -34,5 +34,7 @@
     <RehabMeasure ID="stone_replacement000">Steinaustausch</RehabMeasure>
   </RehabilitationMeasures>
   <Cost currency="EUR">318.07500000000005</Cost>
+  <Duration unit="Tage">0</Duration> 
+  <Risk eval="Hoch"/>
 </Variant>
 
