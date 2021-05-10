@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Project ID="d8c7ecb8-1ae7-49c9-b6c9-2b29b09492c9">
+  <Name>Menden</Name>
+  <Version>1.0</Version>
+  <Timestamp>2021-05-10 at 09:56:13 MESZ</Timestamp>
+  <GeoCoordinates>
+    <Latitude>50.0</Latitude>
+    <Longitude>45.0</Longitude>
+    <Elevation>10.0</Elevation>
+  </GeoCoordinates>
+  <Variants>
+    <Variant ID="169a9f74-882c-4df8-97c2-aac69e14111e">
+      <VariantName>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var3.xml</VariantName>
+      <VariantURL>TODO</VariantURL>
+    </Variant>
+  </Variants>
+</Project>
