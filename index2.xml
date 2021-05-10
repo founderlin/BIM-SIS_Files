@@ -10,8 +10,8 @@
   </GeoCoordinates>
   <Variants>
     <Variant ID="169a9f74-882c-4df8-97c2-aac69e14111e">
-      <VariantName>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var3.xml</VariantName>
-      <VariantURL>TODO</VariantURL>
+      <VariantName>Neue Entwurfsvariante</VariantName>
+      <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var3.xml</VariantURL>
     </Variant>
   </Variants>
 </Project>
