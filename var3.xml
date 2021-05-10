@@ -2,16 +2,20 @@
 <Variant ID="169a9f74-882c-4df8-97c2-aac69e14111e">
   <Name>Neue Entwurfsvariante</Name>
   <Zone>
+    <LocationX unit="m">0.6772533915769987</LocationX>
+    <LocationY unit="m">0.3855747431898139</LocationY>
+    <Width unit="m">0.8187779541993688</Width>
+    <Height unit="m">0.7283039389270318</Height>
     <StoneDamages>
-      <Stone ID="3fWphEpVD3n9nn5hzIUPlY">3fWphEpVD3n9nn5hzIUPlY</Stone>
       <Stone ID="24VJIiNH91YeE7PFJs3DsC">24VJIiNH91YeE7PFJs3DsC</Stone>
+      <Stone ID="3_Fo1g3lv7o9YYeQmQPVrR">3_Fo1g3lv7o9YYeQmQPVrR</Stone>
+      <Stone ID="1n0BjtfeTE8QUcfhZ7WN_3">1n0BjtfeTE8QUcfhZ7WN_3</Stone>
       <Stone ID="2qMNZ62811buIIF3o_qfW5">2qMNZ62811buIIF3o_qfW5</Stone>
       <Stone ID="3u2$SKABz8O8fV4GE99ggI">3u2$SKABz8O8fV4GE99ggI</Stone>
+      <Stone ID="3fWphEpVD3n9nn5hzIUPlY">3fWphEpVD3n9nn5hzIUPlY</Stone>
       <Stone ID="2Mazg_jyj7HxvRhzu_gduZ">2Mazg_jyj7HxvRhzu_gduZ</Stone>
       <Stone ID="1Pm_JevMz3M9CspkK1hf85">1Pm_JevMz3M9CspkK1hf85</Stone>
       <Stone ID="3oZ4sAJL53TPgH07UfD5Aw">3oZ4sAJL53TPgH07UfD5Aw</Stone>
-      <Stone ID="3_Fo1g3lv7o9YYeQmQPVrR">3_Fo1g3lv7o9YYeQmQPVrR</Stone>
-      <Stone ID="1n0BjtfeTE8QUcfhZ7WN_3">1n0BjtfeTE8QUcfhZ7WN_3</Stone>
     </StoneDamages>
   </Zone>
   <DamageTypes>
@@ -29,4 +33,6 @@
     <RehabMeasure ID="securing_pressing000">Verpressen</RehabMeasure>
     <RehabMeasure ID="stone_replacement000">Steinaustausch</RehabMeasure>
   </RehabilitationMeasures>
+  <Cost currency="EUR">318.07500000000005</Cost>
 </Variant>
+
