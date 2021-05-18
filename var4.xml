@@ -15,8 +15,16 @@
     <DamageType ID="Fracture">Fracture</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="text1123">Erste Massnahmen</RehabMeasure>
     <RehabMeasure ID="other000">Sonstige Massnahmen</RehabMeasure>
+    <RehabMeasure ID="other_sandblast000">Sandstrahlen</RehabMeasure>
+    <RehabMeasure ID="other_plastering000">Verputzen</RehabMeasure>
+    <RehabMeasure ID="securing000">Sicherungsmassnahmen</RehabMeasure>
+    <RehabMeasure ID="securing_stat_const000">Statisch-Konstruktive Massnahmen</RehabMeasure>
+    <RehabMeasure ID="securing_brace000">Verklammern</RehabMeasure>
+    <RehabMeasure ID="securing_anchor000">Verankern</RehabMeasure>
+    <RehabMeasure ID="securing_needling000">Vernadeln</RehabMeasure>
+    <RehabMeasure ID="securing_pressing000">Verpressen</RehabMeasure>
+    <RehabMeasure ID="stone_replacement000">Steinaustausch</RehabMeasure>
   </RehabilitationMeasures>
   <Cost currency="EUR">318.07500000000005</Cost>
   <Duration unit="Tage">1</Duration> 
