@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Variant ID="169a9f74-882c-4df8-97c2-aac69e14111e">
+  <Name>Neue Entwurfsvariante</Name>
+  <Zone>
+    <LocationX unit="m">0.6772533915769987</LocationX>
+    <LocationY unit="m">0.3855747431898139</LocationY>
+    <Width unit="m">818.7779541993688</Width>
+    <Height unit="m">728.3039389270318</Height>
+    <StoneDamages>
+      <Stone ID="24VJIiNH91YeE7PFJs3DsC">24VJIiNH91YeE7PFJs3DsC</Stone>
+      <Stone ID="12defg55g6hz6hv6h7j7jv">12defg55g6hz6hv6h7j7jv</Stone>
+    </StoneDamages>
+  </Zone>
+  <DamageTypes>
+    <DamageType ID="Fracture">Fracture</DamageType>
+  </DamageTypes>
+  <RehabilitationMeasures>
+    <RehabMeasure ID="text1123">Erste Massnahmen</RehabMeasure>
+    <RehabMeasure ID="other000">Sonstige Massnahmen</RehabMeasure>
+  </RehabilitationMeasures>
+  <Cost currency="EUR">318.07500000000005</Cost>
+  <Duration unit="Tage">1</Duration> 
+  <Risk eval="Hoch"/>
+</Variant>
