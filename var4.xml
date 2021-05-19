@@ -22,7 +22,7 @@
     <DamageType ID="Fracture">Fracture</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="other000">Pr&#xe4;ventive Ma\u{00DF}nahmen</RehabMeasure>
+    <RehabMeasure ID="other000">"Pr&#xe4;ventive Ma\u{00DF}nahmen"</RehabMeasure>
     <RehabMeasure ID="other_sandblast000">Sandstrahlen</RehabMeasure>
     <RehabMeasure ID="other_plastering000">Verputzen</RehabMeasure>
     <RehabMeasure ID="securing000">Sicherungsmassnahmen</RehabMeasure>
