@@ -36,4 +36,5 @@
   <Cost currency="EUR">318.07500000000005</Cost>
   <Duration unit="Tage">1</Duration> 
   <Risk eval="Hoch"/>
+  <Evaluation>2,7</Evaluation> 
 </Variant>
