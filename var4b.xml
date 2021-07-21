@@ -54,5 +54,8 @@
     <RehabMeasure ID="stone_complement000">Steinergaenzung</RehabMeasure>
   </RehabilitationMeasures>
   <Cost currency="EUR">0.0</Cost>
+  <Duration unit="Tage">1</Duration> 
+  <Risk eval="Hoch"/>
+  <Evaluation>2,7</Evaluation> 
 </Variant>
 
