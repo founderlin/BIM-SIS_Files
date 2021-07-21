@@ -34,7 +34,7 @@
     <DamageType ID="Moss">Moss</DamageType>
   </DamageTypes>
   <RehabilitationMeasures>
-    <RehabMeasure ID="preven000">Präventive Maßnahmen</RehabMeasure>
+    <RehabMeasure ID="preven000">Praeventive Massnahmen</RehabMeasure>
     <RehabMeasure ID="other_plastering000">Neuputz</RehabMeasure>
     <RehabMeasure ID="cleaning000">Reinigung</RehabMeasure>
     <RehabMeasure ID="clean_chem000">Chemische Abnahme</RehabMeasure>
@@ -43,19 +43,19 @@
     <RehabMeasure ID="clean_mech000">Mechanische Abnahme</RehabMeasure>
     <RehabMeasure ID="clean_wet000">Nassreinigung</RehabMeasure>
     <RehabMeasure ID="clean_dry000">Trockenreinigung</RehabMeasure>
-    <RehabMeasure ID="securing000">Sicherungsmaßnahmen</RehabMeasure>
+    <RehabMeasure ID="securing000">Sicherungsmassnahmen</RehabMeasure>
     <RehabMeasure ID="securing_non_stat_const000">Nicht Statisch-Konstruktive Maßnahmen</RehabMeasure>
-    <RehabMeasure ID="securing_crack_filling000">Rissverfüllung</RehabMeasure>
+    <RehabMeasure ID="securing_crack_filling000">Rissverfuellung</RehabMeasure>
     <RehabMeasure ID="securing_stat_const000">Statisch-Konstruktive Maßnahmen</RehabMeasure>
     <RehabMeasure ID="securing_anchor000">Verankern</RehabMeasure>
     <RehabMeasure ID="securing_needling000">Vernadeln</RehabMeasure>
     <RehabMeasure ID="securing_brace000">Verklammern</RehabMeasure>
     <RehabMeasure ID="securing_pressing000">Verpressen</RehabMeasure>
-    <RehabMeasure ID="stone_complement000">Steinergänzung</RehabMeasure>
+    <RehabMeasure ID="stone_complement000">Steinergaenzung</RehabMeasure>
   </RehabilitationMeasures>
-  <Cost currency="EUR">NA</Cost>
+  <Cost currency="EUR">-</Cost>
   <Duration unit="Tage">1</Duration> 
   <Risk eval="Hoch"/>
-  <Evaluation>NA</Evaluation> 
+  <Evaluation>-</Evaluation> 
 </Variant>
 
