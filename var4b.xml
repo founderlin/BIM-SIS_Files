@@ -2,10 +2,10 @@
 <Variant ID="edeeaefc-f348-48b9-a810-89885eca5c64">
   <Name>Neue Entwurfsvariante</Name>
   <Zone>
-    <LocationX unit="m">0.0</LocationX>
-    <LocationY unit="m">0.0</LocationY>
-    <Width unit="mm">2000.0</Width>
-    <Height unit="mm">2000.0</Height>
+    <LocationX unit="m">1.0</LocationX>
+    <LocationY unit="m">1.0</LocationY>
+    <Width unit="mm">30.0</Width>
+    <Height unit="mm">200.0</Height>
     <StoneDamages>
       <Stone ID="17OghfDpT3z8TA46unsHcr">17OghfDpT3z8TA46unsHcr</Stone>
       <Stone ID="2y1C0yiQ14UB2xm0MQIBfX">2y1C0yiQ14UB2xm0MQIBfX</Stone>
