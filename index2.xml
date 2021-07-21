@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="ASCII"?>
-<Project ID="d8c7ecb8-1ae7-49c9-b6c9-2b29b09492c9">
-  <Name>Menden</Name>
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="fa2325a0-de12-4506-a194-a1d2b3b72d6d">
+  <Name>Werna, Spiegelsches Haus</Name>
   <Version>1.0</Version>
-  <Timestamp>2021-05-10 at 09:56:13 MESZ</Timestamp>
+  <Timestamp>2021-07-21 at 11:31:23 MESZ</Timestamp>
   <GeoCoordinates>
-    <Latitude>50.0</Latitude>
-    <Longitude>45.0</Longitude>
-    <Elevation>10.0</Elevation>
+    <Latitude>51.58602</Latitude>
+    <Longitude>0.0</Longitude>
+    <Elevation>246.0</Elevation>
   </GeoCoordinates>
   <Variants>
-    <Variant ID="169a9f74-882c-4df8-97c2-aac69e14111e">
+    <Variant ID="edeeaefc-f348-48b9-a810-89885eca5c64">
       <VariantName>Neue Entwurfsvariante</VariantName>
       <VariantURL>https://raw.githubusercontent.com/founderlin/BIM-SIS_Files/main/var4b.xml</VariantURL>
     </Variant>
